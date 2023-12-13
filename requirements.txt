@@ -1,0 +1,11 @@
+#Libraries needed for the code to run!
+#To install these libraries simply run the command line:
+# pip install /path/to/requirements.txt
+beir
+pandas
+torch
+numpy
+transformers
+typing
+tqdm
+pyterrier
